@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Shirsendu Mondal
 #### An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician
 
-I'm a multi-faceted artist who is a self-learned Photographer, Musician & Cybersecurity Expert specializing in Penetration Testing, Digital Forensics & OSINT.
+I'm a multi-faceted artist specializing in Penetration Testing, Digital Forensics & OSINT.
 
 Skills: Penetration Testing, Digital Forensics, OSINT, Read Teaming & Blue Teaming
 
