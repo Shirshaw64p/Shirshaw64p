@@ -1,6 +1,6 @@
+![An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/293925518_456422046489228_7446903362077456324_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFqUNcn6mj7T3WYxPRC6bP5JXCq9rI2KqIlcKr2sjYqoqin_4mNg3pFhokX8P2XZp2fH2Rdg00J_9NHjjYmRtP6&_nc_ohc=8uEjuORbwv8AX9cRV9F&_nc_ht=scontent.fdac99-1.fna&oh=00_AT9IJJB8QyMymzNUAsHDSWRqr2UoxKbl4RmN2OvvH37mRQ&oe=63295201)
 ### Hi there 👋, I'm Shirsendu Mondal
 #### An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician
-![An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/293925518_456422046489228_7446903362077456324_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFqUNcn6mj7T3WYxPRC6bP5JXCq9rI2KqIlcKr2sjYqoqin_4mNg3pFhokX8P2XZp2fH2Rdg00J_9NHjjYmRtP6&_nc_ohc=8uEjuORbwv8AX9cRV9F&_nc_ht=scontent.fdac99-1.fna&oh=00_AT9IJJB8QyMymzNUAsHDSWRqr2UoxKbl4RmN2OvvH37mRQ&oe=63295201)
 
 I'm a multi-faceted artist who is a self-learned Photographer, Musician & Cybersecurity Expert specializing in Penetration Testing, Digital Forensics & OSINT.
 
