@@ -1,4 +1,4 @@
-![An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician](https://ibb.co/BLsBwHK)
+![An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician <img src='https://ibb.co/BLsBwHK'>](https://ibb.co/BLsBwHK)
 ### Hi there 👋, I'm Shirsendu Mondal
 #### An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician
 
