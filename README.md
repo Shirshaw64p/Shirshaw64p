@@ -1,14 +1,11 @@
-![An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician <img src='https://ibb.co/BLsBwHK'>](https://ibb.co/BLsBwHK)
 ### Hi there 👋, I'm Shirsendu Mondal
 #### An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician
 
 I'm a multi-faceted artist specializing in Penetration Testing, Digital Forensics & OSINT.
 
-Skills: Penetration Testing, Digital Forensics, OSINT, Read Teaming & Blue Teaming
+Skills: Penetration Testing, Digital Forensics, OSINT & Red Teaming
 
 - 🔭 I’m currently working on Ethical Hacking 
-- 🌱 I’m currently learning CEH & CISSP 
-- 🤔 I’m looking for help with Cybersecurity 
 - 😄 Pronouns: He/Him 
 
 
