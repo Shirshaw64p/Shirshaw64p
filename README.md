@@ -17,15 +17,25 @@
 
 ## Evidence Index (Verification-First)
 
-- Public vulnerability acknowledgments & halls of fame  
-- Responsible disclosure records (CVE & non-CVE)  
-- Academic and institutional research contributions  
-- GitHub repositories containing original security tooling  
-- Formal recognitions and letters for security research
+- Public vulnerability acknowledgments and halls of fame (government and large institutions)
+- Responsible vulnerability disclosures (CVE and non-CVE), with remediation status
+- Academic and institutional security research contributions
+- Original security tooling and automation repositories on GitHub
+- Formal recognition letters for security research (available upon request, where not public)
 
 ---
 
 ## Quantified Impact & Metrics
+
+### Metrics Methodology & Scope
+
+All reported metrics are derived from:
+- Authorized testing environments
+- Vulnerability disclosure programs
+- Research and benchmarking against intentionally vulnerable applications
+- Internally documented testing artifacts and evidence logs
+
+Where public disclosure is restricted, detailed evidence is maintained privately and can be shared under appropriate authorization.
 
 ### Vulnerability Research
 - **30+ validated vulnerabilities** across web applications, APIs, and enterprise systems  
@@ -33,7 +43,7 @@
 - **100% responsible disclosure rate**, with remediation confirmation where available  
 
 ### Red Team & Offensive Testing
-- Benchmarked a vibecoded autonomous red teaming system against **OWASP Juice Shop (172 known vulnerabilities)**  
+- Benchmarked an autonomous red teaming system against **OWASP Juice Shop (172 known vulnerabilities)**  
 - **31+ verified exploit paths** identified within a **12-hour development window**  
 - Demonstrated attack coverage comparable to **multi-week human VAPT engagements**
 
@@ -51,17 +61,27 @@
 
 ## Certifications (Verified Expertise)
 
-- **Certified Ethical Hacker (CEH v12)** – EC-Council  
-- **eLearnSecurity Junior Penetration Tester (eJPT)** - INE Security
-- **Certified in Cybersecurity (CC)**  - ISC2
-- **Certified Network Penetration Professional (CNPen)** - Secops Group  
-- **ISO 27001:2022 Information Security Management Systems Lead Auditor**
-
-These certifications validate **hands-on offensive security skill**, ethical conduct, and industry-recognized competence.
+- Certified Ethical Hacker (CEH v12) – EC-Council  
+- eLearnSecurity Junior Penetration Tester (eJPT)  
+- ISC2 – Certified in Cybersecurity (CC)  
+- Certified Network Penetration Professional (CNPen)  
 
 ---
 
 ## Core Technical Domains
+
+### SOC Experience (Operational Context)
+
+Currently serving in a Security Operations Center (SOC) environment, contributing to detection, investigation, and response workflows.
+
+**Operational Exposure Includes:**
+- Endpoint detection and response (EDR)
+- Email security triage and phishing analysis
+- Network security monitoring
+- Incident documentation and escalation
+- Ticketing and case management workflows
+
+This experience directly informs my red team and research work by identifying real-world detection gaps and response limitations.
 
 ### Offensive Security & Red Teaming
 - End-to-end attack chains (initial access → impact)  
@@ -76,8 +96,8 @@ These certifications validate **hands-on offensive security skill**, ethical con
 
 ### Vulnerability Research
 - API security failures  
-- IDOR & object-level authorization flaws  
-- Exploit reproducibility & PoC verification
+- IDOR and object-level authorization flaws  
+- Exploit reproducibility and PoC verification
 
 ### AI-Assisted Security Automation
 - Autonomous pentesting agents  
@@ -86,23 +106,21 @@ These certifications validate **hands-on offensive security skill**, ethical con
 
 ---
 
-## Compliance & Standards Alignment
+## Standards & Compliance Alignment
 
-### Security & Risk Frameworks
-- OWASP Top 10 (Web & API)  
-- MITRE ATT&CK  
-- NIST SP 800-53 (control relevance)  
+My work aligns with recognized security standards and frameworks for **testing relevance and control validation**, not formal auditing.
+
+**Frameworks Referenced:**
+- OWASP Top 10 (Web and API)
+- MITRE ATT&CK
+- NIST SP 800-53 (security controls context)
 - NIST SP 800-63-3 (digital identity)
 
-### Compliance Contexts (Testing Relevance)
-- SOC 2 (control validation perspective)  
+**Compliance Contexts:**
+- SOC 2 (control effectiveness perspective)
 - ISO/IEC 27001 (technical control verification)
-- PCI-DSS
-- HIPAA
 
-### Mapping Methodology
-- Findings mapped to **OWASP category → CWE → ATT&CK technique**  
-- Documentation structured for **audit, compliance, and executive review**
+All findings are mapped to industry-standard taxonomies to support audit, compliance, and executive review.
 
 ---
 
@@ -115,19 +133,32 @@ These certifications validate **hands-on offensive security skill**, ethical con
 
 ---
 
+## Evidence Mapping
+
+Selected contributions, metrics, and recognitions are mapped to:
+- Original contributions of major significance
+- Critical roles in security operations and research
+- Sustained national and international impact
+
+A detailed evidence matrix is maintained separately for formal review contexts.
+
+---
+
 ## Publications, Review & Academic Activity
 
-- Peer-reviewed and under-review research in security and digital identity domains  
-- Conference submissions, posters, and technical presentations  
-- Technical Program Coordinator - TPC at CSNT 2026
+- Peer-reviewed and under-review research in cybersecurity and digital identity
+- Conference submissions, posters, and technical presentations
+- Participation in technical review and evaluation activities where applicable
+
+Details are selectively disclosed to respect publication and review confidentiality.
 
 ---
 
 ## Recognition & Public Credibility
 
-- Formal recognition from **government and large institutions** for responsible disclosure  
-- Public acknowledgment under vulnerability disclosure programs  
-- Institutional and academic recognition for security research contributions
+- Formal recognition from government and large institutions for responsible security research
+- Public acknowledgment under vulnerability disclosure programs
+- Institutional recognition for cybersecurity research contributions
 
 ---
 
@@ -145,11 +176,8 @@ I prioritize:
 
 ## Contact & Collaboration
 
-- Research collaboration (academic or industry)  
-- SOC, red team, and security research roles  
-- Responsible vulnerability disclosure coordination  
+- Research collaboration (academic or industry)
+- SOC, red team, and security research roles
+- Responsible vulnerability disclosure coordination
 
 **Preferred contact:** GitHub Issues or Discussions
-
----
-
