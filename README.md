@@ -52,10 +52,11 @@
 ## Certifications (Verified Expertise)
 
 - **Certified Ethical Hacker (CEH v12)** – EC-Council  
-- **eLearnSecurity Junior Penetration Tester (eJPT)**  
-- **ISC2 – Certified in Cybersecurity (CC)**  
-- **Certified Network Penetration Professional (CNPen)**  
+- **eLearnSecurity Junior Penetration Tester (eJPT)** - INE Security
+- **Certified in Cybersecurity (CC)**  - ISC2
+- **Certified Network Penetration Professional (CNPen)** - Secops Group  
 - **ISO 27001:2022 Information Security Management Systems Lead Auditor**
+
 These certifications validate **hands-on offensive security skill**, ethical conduct, and industry-recognized competence.
 
 ---
