@@ -1,28 +1,158 @@
-### Hi there 👋, I'm Shirsendu Mondal
-#### An Ethical Hacker, Cybersecurity Analyst, Photographer & Musician
+# Shirsendu Mondal
+## Cybersecurity Researcher | SOC Analyst | Red Teamer
 
-I'm a multi-faceted artist specializing in Penetration Testing, Digital Forensics & OSINT.
+**Focus:** Real-world attack simulation, vulnerability research, SOC-relevant detection gaps, and autonomous red teaming  
+**Timezone:** US (EST)  
+**Open to:** Research collaboration · Advanced security roles · Responsible disclosure coordination
 
-Skills: Penetration Testing, Digital Forensics, OSINT & Red Teaming
+---
 
-- 🔭 I’m currently working on Ethical Hacking 
-- 😄 Pronouns: He/Him 
+## Officer-Readable Summary
 
+- Cybersecurity researcher with **documented original contributions** in offensive security automation and vulnerability research  
+- Conducts **authorized, evidence-driven security testing** under responsible disclosure and VDP frameworks  
+- Produces **measurable security impact** aligned with industry and government security standards
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shirshaw64p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shirsendu-mondal-632a801a4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shirshaw64p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shirshaw64p/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shirsendu64)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCvE5Doc8HnfWDRUeGRmqJag)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/0OSjTTuzVglE32S8qUi0rw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' alt='hackerone' height='40'>](https://hackerone.com/shirshaw64)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## Evidence Index (Verification-First)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shirshaw64p)](https://github.com/ryo-ma/github-profile-trophy)
+- Public vulnerability acknowledgments & halls of fame  
+- Responsible disclosure records (CVE & non-CVE)  
+- Academic and institutional research contributions  
+- GitHub repositories containing original security tooling  
+- Formal recognitions and letters for security research
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirshaw64p)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirshaw64p&show_icons=true)  
+## Quantified Impact & Metrics
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shirshaw64p)  
+### Vulnerability Research
+- **30+ validated vulnerabilities** across web applications, APIs, and enterprise systems  
+- **High-severity findings** including authentication bypass, IDOR, and access-control failures  
+- **100% responsible disclosure rate**, with remediation confirmation where available  
 
-![GitHub metrics](https://metrics.lecoq.io/Shirshaw64p)  
+### Red Team & Offensive Testing
+- Benchmarked a vibecoded autonomous red teaming system against **OWASP Juice Shop (172 known vulnerabilities)**  
+- **31+ verified exploit paths** identified within a **12-hour development window**  
+- Demonstrated attack coverage comparable to **multi-week human VAPT engagements**
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shirshaw64p)  
+### Automation & Scale
+- **>70% reduction in manual testing time** in controlled benchmarks  
+- Concurrent multi-agent orchestration with full evidence capture  
+- Repeatable attack pipelines suitable for continuous security testing
 
-![Profile views](https://gpvc.arturio.dev/Shirshaw64p)  
+### Severity Distribution (Representative)
+- Critical / High: Majority of validated findings  
+- Medium: Context-dependent exploitation paths  
+- Low: Informational findings documented for completeness
+
+---
+
+## Certifications (Verified Expertise)
+
+- **Certified Ethical Hacker (CEH v12)** – EC-Council  
+- **eLearnSecurity Junior Penetration Tester (eJPT)**  
+- **ISC2 – Certified in Cybersecurity (CC)**  
+- **Certified Network Penetration Professional (CNPen)**  
+- **ISO 27001:2022 Information Security Management Systems Lead Auditor**
+These certifications validate **hands-on offensive security skill**, ethical conduct, and industry-recognized competence.
+
+---
+
+## Core Technical Domains
+
+### Offensive Security & Red Teaming
+- End-to-end attack chains (initial access → impact)  
+- Authentication & authorization bypass  
+- Business logic exploitation  
+- MITRE ATT&CK-aligned adversarial techniques
+
+### SOC-Relevant Analysis
+- Detection gap identification  
+- Attack-to-alert mismatch analysis  
+- Evidence artifacts usable for SOC tuning and IR review
+
+### Vulnerability Research
+- API security failures  
+- IDOR & object-level authorization flaws  
+- Exploit reproducibility & PoC verification
+
+### AI-Assisted Security Automation
+- Autonomous pentesting agents  
+- Multi-agent orchestration  
+- Evidence-first reporting pipelines
+
+---
+
+## Compliance & Standards Alignment
+
+### Security & Risk Frameworks
+- OWASP Top 10 (Web & API)  
+- MITRE ATT&CK  
+- NIST SP 800-53 (control relevance)  
+- NIST SP 800-63-3 (digital identity)
+
+### Compliance Contexts (Testing Relevance)
+- SOC 2 (control validation perspective)  
+- ISO/IEC 27001 (technical control verification)
+- PCI-DSS
+- HIPAA
+
+### Mapping Methodology
+- Findings mapped to **OWASP category → CWE → ATT&CK technique**  
+- Documentation structured for **audit, compliance, and executive review**
+
+---
+
+## Original Contributions
+
+- Designed and implemented **autonomous multi-agent red teaming frameworks**  
+- Demonstrated measurable efficiency and coverage gains over manual testing  
+- Produced repeatable, verifiable exploit evidence suitable for institutional review  
+- Contributions extend **beyond academic or employment requirements**
+
+---
+
+## Publications, Review & Academic Activity
+
+- Peer-reviewed and under-review research in security and digital identity domains  
+- Conference submissions, posters, and technical presentations  
+- Technical Program Coordinator - TPC at CSNT 2026
+
+---
+
+## Recognition & Public Credibility
+
+- Formal recognition from **government and large institutions** for responsible disclosure  
+- Public acknowledgment under vulnerability disclosure programs  
+- Institutional and academic recognition for security research contributions
+
+---
+
+## Professional Philosophy
+
+> Security is demonstrated through exploitation, verified through evidence,  
+> and validated through responsible disclosure.
+
+I prioritize:
+- Proof over assumptions  
+- Impact over volume  
+- Authorization, ethics, and documentation
+
+---
+
+## Contact & Collaboration
+
+- Research collaboration (academic or industry)  
+- SOC, red team, and security research roles  
+- Responsible vulnerability disclosure coordination  
+
+**Preferred contact:** GitHub Issues or Discussions
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shirshaw64pE&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirshaw64p&layout=compact&theme=dark" />
+</p>
