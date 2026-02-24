@@ -153,7 +153,3 @@ I prioritize:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shirshaw64pE&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirshaw64p&layout=compact&theme=dark" />
-</p>
