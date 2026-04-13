@@ -1,5 +1,10 @@
-# Shirsendu Mondal
-## Cybersecurity Researcher | SOC Analyst | Red Teamer
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shirsendu%20Mondal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Researcher%20%7C%20SOC%20Analyst%20%7C%20Red%20Teamer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=shirshaw64p">
+    <img src="https://komarev.com/ghpvc/?username=shirshaw64p&label=Profile%20views&color=00FFFF&style=flat-square" alt="shirshaw64p's profile views" />
+  </a>
+</p>
 
 **Focus:** Real-world attack simulation, vulnerability research, SOC-relevant detection gaps, and autonomous red teaming  
 **Timezone:** US (EST)  
@@ -7,13 +12,12 @@
 
 ---
 
-## Officer-Readable Summary
-
-- Cybersecurity researcher with **documented original contributions** in offensive security automation and vulnerability research  
-- Conducts **authorized, evidence-driven security testing** under responsible disclosure and VDP frameworks  
-- Produces **measurable security impact** aligned with industry and government security standards
-
----
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shirshaw64p&theme=tokyonight&radius=10" alt="shirshaw64p's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 ## Evidence Index (Verification-First)
 
